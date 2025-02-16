@@ -34,7 +34,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="http://www.github.com/HusseinGhaddar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fakhrilden&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="http://www.github.com/HusseinGhaddar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HusseinGhaddar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
 
 <br/><br/>
